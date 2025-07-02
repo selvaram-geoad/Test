@@ -1,0 +1,10 @@
+flask
+sqlalchemy
+psycopg2-binary
+requests
+flask_sqlalchemy
+sqlalchemy
+gunicorn
+python-dotenv
+Flask-RESTful==0.3.9
+flask_cors
