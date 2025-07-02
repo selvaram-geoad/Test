@@ -22,7 +22,7 @@ for endpoint in endPoints_list:
 db.init_app(app)
 with app.app_context():
     db.create_all()
-
+#this is the comment i added in via Angular
 if __name__ == '__main__':
     app.run(debug=True)
 
